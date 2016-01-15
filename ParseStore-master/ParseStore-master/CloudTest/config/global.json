@@ -1,0 +1,13 @@
+{
+  "global": {
+    "parseVersion": "1.2.1"
+  },
+  "applications": {
+    "ParseStore": {
+      "applicationId": "pEZtAFuzsjCmkxrPrdpwD0zWvXSmB0GWSWPat9rF"
+    },
+    "_default": {
+      "link": "ParseStore"
+    }
+  }
+}
